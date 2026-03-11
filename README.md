@@ -1,8 +1,22 @@
 # reMarkable Templates
 Various custom reMarkable templates.
 
-## Installation
+## Installing Templates
 Refer to this [installation guide](https://www.simplykyra.com/blog/how-to-upload-custom-templates-to-your-remarkable-2025-update/).
+
+### Troubleshooting USB
+You may need to change the USB network's MTU to allow files to transfer over SSH correctly.
+On Unix-like systems, this can be done by first inspecting which network interface corresponds to your reMarkable:
+
+```bash
+ifconfig -a
+```
+
+In this example, the interface was shown to be `en7`. Then, changing the MTU (lower should be more stable) to add robustness:
+
+```bash
+sudo ifconfig en7 mtu 1000
+```
 
 ## Adding Templates
 Templates are created here using Inkscape. Here are the settings used for each platform:
