@@ -9,7 +9,7 @@
    id="svg1"
    inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
    sodipodi:docname="software_standup.svg"
-   inkscape:export-filename="software_standup.png"
+   inkscape:export-filename="/Users/duncan/git/remarkable-templates/renders/paper-pro/meetings/software_standup.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -28,15 +28,15 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="px"
      showguides="true"
-     inkscape:zoom="1.1526205"
-     inkscape:cx="322.30902"
-     inkscape:cy="1239.7836"
+     inkscape:zoom="0.2810721"
+     inkscape:cx="734.68695"
+     inkscape:cy="1045.995"
      inkscape:window-width="1469"
      inkscape:window-height="883"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g7" />
+     inkscape:current-layer="layer2" />
   <defs
      id="defs1" />
   <g
@@ -297,6 +297,13 @@
        xlink:href="#path1"
        transform="translate(2.8086419e-7,503.74296)"
        id="use115" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use115"
+       id="use1"
+       inkscape:label="use1"
+       transform="translate(0,15.741858)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -315,7 +322,7 @@
        inkscape:tile-y0="25.08792" />
     <path
        style="display:inline;fill:#000000;stroke:#000000;stroke-width:0.535053;stroke-dasharray:none;stroke-dashoffset:0"
-       d="M 33.072921,131.75989 H 395.55208"
+       d="M 33.072921,116.01797 H 395.55208"
        id="path2"
        inkscape:tile-cx="214.3125"
        inkscape:tile-cy="25.187933"
@@ -326,7 +333,7 @@
        inkscape:label="path2" />
     <path
        style="display:inline;fill:#000000;stroke:#000000;stroke-width:0.535053;stroke-dasharray:none;stroke-dashoffset:0"
-       d="M 33.072916,226.21164 H 395.55208"
+       d="M 33.072916,194.72781 H 395.55208"
        id="path2-4"
        inkscape:tile-cx="214.3125"
        inkscape:tile-cy="25.187933"
@@ -337,7 +344,7 @@
        inkscape:label="path2" />
     <path
        style="display:inline;fill:#000000;stroke:#000000;stroke-width:0.535053;stroke-dasharray:none;stroke-dashoffset:0"
-       d="M 33.072916,320.66339 H 395.55207"
+       d="M 33.072916,304.92147 H 395.55207"
        id="path2-4-3"
        inkscape:tile-cx="214.3125"
        inkscape:tile-cy="25.187933"
@@ -401,26 +408,26 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Times;-inkscape-font-specification:Times;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:#000000;stroke-width:0.156013"
        x="38.916756"
-       y="31.780231"
+       y="16.434383"
        id="text4"
        inkscape:label="Header"><tspan
          sodipodi:role="line"
          id="tspan4"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';stroke-width:0.156013"
          x="38.916756"
-         y="31.780231">Today</tspan></text>
+         y="16.434383">Today</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:#000000;stroke-width:0.145538"
        x="61.328094"
-       y="31.774994"
+       y="16.429146"
        id="text5"
        inkscape:label="Description"><tspan
          sodipodi:role="line"
          id="tspan5"
          style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.64444px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light Italic';stroke-width:0.145538"
          x="61.328094"
-         y="31.774994">What am I working on?</tspan></text>
+         y="16.429146">What am I working on?</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -431,26 +438,26 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Times;-inkscape-font-specification:Times;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:#000000;stroke-width:0.156013"
        x="39.807697"
-       y="16.963551"
+       y="-14.25727"
        id="text8"
        inkscape:label="Header"><tspan
          sodipodi:role="line"
          id="tspan8"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';stroke-width:0.156013"
          x="39.807697"
-         y="16.963551">Ideas</tspan></text>
+         y="-14.25727">Ideas</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:#000000;stroke-width:0.145538"
        x="62.734795"
-       y="16.958313"
+       y="-14.262511"
        id="text9"
        inkscape:label="Description"><tspan
          sodipodi:role="line"
          id="tspan9"
          style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.64444px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light Italic';stroke-width:0.145538"
          x="62.734795"
-         y="16.958313">What should we explore?</tspan></text>
+         y="-14.262511">What should we explore?</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -461,25 +468,25 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Times;-inkscape-font-specification:Times;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:#000000;stroke-width:0.156013"
        x="38.737549"
-       y="220.70107"
+       y="204.82628"
        id="text6"
        inkscape:label="Header"><tspan
          sodipodi:role="line"
          id="tspan6"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';stroke-width:0.156013"
          x="38.737549"
-         y="220.70107">Group</tspan></text>
+         y="204.82628">Group</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:#000000;stroke-width:0.145538"
        x="62.204727"
-       y="220.87372"
+       y="204.99893"
        id="text7"
        inkscape:label="Description"><tspan
          sodipodi:role="line"
          id="tspan7"
          style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.64444px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light Italic';stroke-width:0.145538"
          x="62.204727"
-         y="220.87372">What are others working on?</tspan></text>
+         y="204.99893">What are others working on?</tspan></text>
   </g>
 </svg>
